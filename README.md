@@ -12,9 +12,12 @@ The aim of this study was to characterize the effect of the gut microbiota in mi
 3. Run AIDAmri pre- and postprocessing steps for T2 and DTI data, see [manual](https://github.com/aswendtlab/AIDAmri/blob/master/manual.pdf)
 
 4. Extract the graph theoretical measures using AIDAconnect and Matlab
-   1. Load the data and generate the graphs``` mergeDTIdata_input.m)```
-4.2
+   1. Load the data and generate the graphs``` mergeDTIdata_input.m```
+   2. To generate matrices use ```plotCorrelationMatrices.m``` (a full list of the atlas labels can be found [here](https://github.com/aswendtlab/AIDAconnect/blob/master/Tools/infoData/acronyms_splitted.mat)
+   3. To generate matrices use ```plotCorrelationMatrices.m```
+   4. To generate the histogram plots (frequency of degree/node strength) use ```plotDistribution.m```
+   5. To generate the total degree/node strength plots (group difference needs to be calculated separately) use ```compareTotalStrength.m```, ```compareTotalDegree.m```
+   6. 
 
-1. Item 3
-   1. Item 3a
+
   
