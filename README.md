@@ -1,2 +1,2 @@
 # Project_Microbiome
-rs-fMRI in germfree and naïve mice 
+Project repository rs-fMRI of germfree and naïve mice with/without cortical stroke 
