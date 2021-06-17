@@ -14,4 +14,7 @@ The aim of this study was to characterize the effect of the gut microbiota in mi
 4. Extract the graph theoretical measures using AIDAconnect and Matlab
   1. Load the data and generate the graphs``` mergeDTIdata_input.m)```
 4.2
+
+1. Item 3
+   1. Item 3a
   
