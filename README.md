@@ -1,5 +1,6 @@
 # Project_Microbiome
-Project repository rs-fMRI of germfree and naïve mice with/without cortical stroke 
+Project repository rs-fMRI of germfree and naïve mice with/without cortical stroke. 
+The aim of this study was to characterize the effect of the gut microbiota in mice with experimental stroke using functional connectivity analysis. 
 
 ## Step-by-Step guide to replicate the analysis
 
@@ -11,6 +12,6 @@ Project repository rs-fMRI of germfree and naïve mice with/without cortical str
 3. Run AIDAmri pre- and postprocessing steps for T2 and DTI data, see [manual](https://github.com/aswendtlab/AIDAmri/blob/master/manual.pdf)
 
 4. Extract the graph theoretical measures using AIDAconnect and Matlab
-4.1 * 1) Load the data and generate the graphs``` mergeDTIdata_input.m)```
+  4. Load the data and generate the graphs``` mergeDTIdata_input.m)```
 4.2
   
