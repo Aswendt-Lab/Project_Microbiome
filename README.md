@@ -4,7 +4,7 @@ The aim of this study was to characterize the effect of the gut microbiota in mi
 
 ## Step-by-Step guide to replicate the analysis
 
-1. Download MRI raw and processed data (raw_data/proc_data) from [G-Node](https://doi.org/10.12751/g-node.699mgv). The proc_data is grouped, thus GF/SPF, naive/stroke mice are grouped in the correct subfolder already. Further, we provide the AIDAmri and AIDAconnect versions used for analysis - this way you save time with pre-set input parameters to reproduce all steps!
+1. Download MRI raw and processed data (raw_data/proc_data) from [Edmond – the Open Research Data Repository of the Max Planck Society](https://dx.doi.org/10.17617/3.5p). The data is grouped, thus GF/SPF, naive/stroke mice are grouped in the correct subfolder already. Further, we provide the AIDAmri_v1.1 and AIDAconnect_v1.0 versions which were used for analysis. This way you save time with pre-set input parameters to reproduce all steps!
 
 2. Install [AIDAmri](https://github.com/aswendtlab/AIDAmri) and [AIDAconnect](https://github.com/aswendtlab/AIDAconnect). Note! Anaconda Python 3 installation and Matlab_R2018/2019 are required, see the manuals for install instructions. 
 
